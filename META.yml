@@ -8,5 +8,8 @@ meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
 name: Crypt-Blowfish-Mod
-requires: {}
-version: 0.01
+requires:
+  Carp: 0
+  MIME::Base64: 0
+  Test::More: 0
+version: 0.02
