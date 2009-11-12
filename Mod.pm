@@ -1,5 +1,5 @@
 package Crypt::Blowfish::Mod;
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use strict;
 use warnings;
@@ -63,7 +63,7 @@ Crypt::Blowfish::Mod - Another Blowfish Algorithm
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 SYNOPSIS
 
